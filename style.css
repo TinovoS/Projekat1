@@ -1,0 +1,69 @@
+body{
+    font-family: 'Amita', cursive;
+	background-color: #5b2020 ;
+	color:  #FFC652 ;
+}
+h1{
+	font-size:40px;
+	text-align:center;
+	line-height: 0%;
+}
+h2
+{
+	line-height: 50%;
+	font-size:20px;
+	text-align:center;
+	margin-left: 200px;
+}
+section.prva {
+	margin-left:15%;
+	margin-right:15%;
+	background-image: url("slika_1.jpg");
+	background-size:cover;
+	height:500px;
+	margin-bottom:150px;
+	border-radius:15px;
+}
+.prva span {
+	padding-left:80%;
+}
+.prva #opis {
+	color:white;
+	font-size:20px;
+	padding-left:5px;
+	font-family:Arial;
+}
+.prva #naziv {
+	padding-left:5px;
+	padding-top:400px;
+	color:white;
+	font-size:30px;
+}
+.pisanje {
+  position:absolute;
+  top:90%;
+  border-bottom-left-radius:15px;
+  border-bottom-right-radius:15px;
+  height: 20%;
+  width: 69.2%;
+  background-color: black;
+  filter:opacity(20%);
+}
+section.druga {
+	margin-left:15%;
+	margin-right:15%;
+	background-image: url("slika2.jpg");
+	background-size:cover;
+	height:500px;
+	margin-bottom:150px;
+	border-radius:15px;
+}
+section.treca {
+	margin-left:15%;
+	margin-right:15%;
+	background-image: url("slika3.jpg");
+	background-size:cover;
+	height:500px;
+	margin-bottom:50px;
+	border-radius:15px;
+}
